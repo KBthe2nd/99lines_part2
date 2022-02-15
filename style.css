@@ -1,0 +1,23 @@
+body {
+    background-color: aqua;
+    text-align: center;
+}
+
+h1 {
+    color: blue;
+}
+
+.class{
+
+    background-color: coral;
+}
+
+h3 {
+    
+    text-transform: uppercase;
+}
+
+p {
+    color: violet;
+    text-transform: unset;
+}
